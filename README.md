@@ -4,17 +4,21 @@
 
 ### Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🛡️ [**ThreatLens**](https://github.com/uckix/threatlens) | AI-assisted alert triage for Wazuh SIEM | <img src="https://skillicons.dev/icons?i=ts,nodejs,docker&theme=dark" height="24" alt="ThreatLens Stack" /> |
-| 🧠 [**Wisdom RAG**](https://github.com/uckix/RAG-engine) | Fully local, privacy-first question-answering pipeline | <img src="https://skillicons.dev/icons?i=py,ai&theme=dark" height="24" alt="Wisdom RAG Stack" /> |
-| ⚡ [**BlueShift**](https://github.com/uckix/blueshift) | Zero-lag Bluetooth Low Energy KVM switch for Linux | <img src="https://skillicons.dev/icons?i=py,linux,qt&theme=dark" height="24" alt="BlueShift Stack" /> |
-| 🎙️ [**Vocash**](https://github.com/uckix/Vocash) | Private local AI finance tracker via voice & text | <img src="https://skillicons.dev/icons?i=py,sqlite,bots&theme=dark" height="24" alt="Vocash Stack" /> |
-| ✉️ [**emlview**](https://github.com/uckix/emlview) | Minimal, private `.eml` desktop reader for Linux | <img src="https://skillicons.dev/icons?i=py,linux&theme=dark" height="24" alt="emlview Stack" /> |
-| 🌆 [**PROCity**](https://github.com/uckix/procity) | Linux processes visualized as a live 3D neon city | <img src="https://skillicons.dev/icons?i=ts,threejs,fastapi,py&theme=dark" height="24" alt="PROCity Stack" /> |
+| Project | Description |
+| :--- | :--- |
+| 🛡️ [**ThreatLens**](https://github.com/uckix/threatlens) | AI triage that turns cryptic SIEM alerts into plain-English verdicts & actions |
+| 🧠 [**Wisdom RAG**](https://github.com/uckix/RAG-engine) | Private AI assistant that chats with and reasons over your local documents |
+| ⚡ [**BlueShift**](https://github.com/uckix/blueshift) | Share one keyboard and mouse across multiple PCs seamlessly over Bluetooth |
+| 🎙️ [**Vocash**](https://github.com/uckix/Vocash) | Automatic expense & income tracker powered by local voice notes |
+| ✉️ [**emlview**](https://github.com/uckix/emlview) | Clean, distraction-free desktop reader for `.eml` email files with tracker blocking |
+| 🌆 [**PROCity**](https://github.com/uckix/procity) | Interactive 3D cyberpunk city that visualizes your live system processes |
 
 ### Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,bash,html,css,linux,arduino,raspberrypi,fastapi,threejs,react,vite,nodejs,qt,ai,bots,pytorch,opencv,sqlite,postgres,mysql,git,docker,cmake,postman,nginx&theme=dark&perline=10" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,bash,linux,arduino,raspberrypi,fastapi,threejs,react,vite,nodejs,qt,ai,bots,pytorch,opencv,sqlite,postgres,mysql,git,docker,cmake,postman,nginx&theme=dark&perline=13" alt="Technologies" />
 </p>
+
+### Contact
+
+✉️ [shahriyorta@gmail.com](mailto:shahriyorta@gmail.com)
